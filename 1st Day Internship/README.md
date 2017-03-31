@@ -1,3 +1,9 @@
-# First Day SG Internship
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 
-folder = Nama_NIM. e.g: HELMISATRIA_1301154325
+</body>
+</html>
