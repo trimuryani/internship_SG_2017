@@ -7,17 +7,27 @@ Belajar:
 
 Buat personal profile dengan Fungsionalitas :
 
-1. Gambar
+1. 3 Gambar
 2. Min 3 paragraf
-3. Ada 3 alignment setting ( center, left, right )
-4. Ada 3 jenis font berbeda
-5. Ada 5 ukuran font berbeda
-6. Ada h1, h2, p
-7. Ada 2 letter spacing berbeda
+3. Ada alignment setting
+4. Ada font setting
+5. Ada 3 ukuran font berbeda
+6. Menggunakan header dan paragraph tag
+7. Menggunakan line height
 8. Ada setting padding
 9. Ada setting margin
-10. Ada bordering left, right, full
-11. Ada 4 warna berbeda ( text )
+11. Ada setting color
 12. Ada background color
 13. Mengerti fungsi float pada CSS
 14. Mengerti fungsi position pada CSS
+Bootstrap:
+#Baca dokumentasi bootstrap
+* http://getbootstrap.com/css/
+* http://getbootstrap.com/components/
+1. Menggunakan container/container-fluid
+2. Menggunakan grid system
+3. Ada Button
+4. Setting size button
+5. Ada Glyphicons
+6. Ada Navbar
+7. Perindah 3 Gambar menggunakan Thumbnails
