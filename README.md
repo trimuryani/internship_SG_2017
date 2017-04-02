@@ -24,7 +24,8 @@ Buat personal profile dengan Fungsionalitas :
 14. Mengerti fungsi position pada CSS
 
 Lakukan hal dibawah menggunakan Bootstrap:
-Baca dokumentasi bootstrap:
+
+-- Baca dokumentasi bootstrap:
 * http://getbootstrap.com/css/
 * http://getbootstrap.com/components/
 1. Menggunakan container/container-fluid
