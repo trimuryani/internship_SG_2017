@@ -5,6 +5,8 @@ Belajar:
 1. Git
 1. HTML CSS
 
+# TUGAS 2
+
 Buat personal profile dengan Fungsionalitas :
 
 1. 3 Gambar
@@ -21,8 +23,7 @@ Buat personal profile dengan Fungsionalitas :
 13. Mengerti fungsi float pada CSS
 14. Mengerti fungsi position pada CSS
 
-## Bootstrap:
-
+Lakukan hal dibawah menggunakan Bootstrap:
 Baca dokumentasi bootstrap:
 * http://getbootstrap.com/css/
 * http://getbootstrap.com/components/
@@ -33,3 +34,8 @@ Baca dokumentasi bootstrap:
 5. Ada Glyphicons
 6. Ada Navbar
 7. Perindah 3 Gambar menggunakan Thumbnails
+
+Lakukan suatu hal menggunakan Jquery
+optional:
+* Alert
+* Document Object Model (DOM) Manipulation -> edit suatu elemen
