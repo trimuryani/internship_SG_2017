@@ -20,6 +20,7 @@ Buat personal profile dengan Fungsionalitas :
 12. Ada background color
 13. Mengerti fungsi float pada CSS
 14. Mengerti fungsi position pada CSS
+
 Bootstrap:
 #Baca dokumentasi bootstrap
 * http://getbootstrap.com/css/
