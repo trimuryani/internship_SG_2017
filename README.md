@@ -37,6 +37,7 @@ Lakukan hal dibawah menggunakan Bootstrap:
 7. Perindah 3 Gambar menggunakan Thumbnails
 
 Lakukan suatu hal menggunakan Jquery
-optional:
+
+-- opsi:
 * Alert
 * Document Object Model (DOM) Manipulation -> edit suatu elemen
